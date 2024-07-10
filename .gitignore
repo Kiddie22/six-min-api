@@ -1,0 +1,124 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio
+.vscode/
+.vs/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+
+# ASP.NET Core specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Dependencies
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+!.nuget
+!NuGet.Config
+# Rider
+.idea/
+*.sln.iml
+*.csproj.iml
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.history/
+
+# Packages
+*.nupkg
+*.snupkg
+
+# ASP.NET Core
+wwwroot/appsettings.json
+wwwroot/appsettings.*.json
+wwwroot/node_modules/
+
+# Node.js
+node_modules/
+
+# Yarn
+.yarn/
+.pnp.*
+
+# dotenv environment variables file
+.env
+.env.*
+
+# Local History
+.localhistory/
+
+# Log files
+*.log
+*.tlog
+
+# Web server configuration files
+iisnode.yml
+.aspnet/aspnetcoremodule/
+
+# Stylesheet files
+.sass-cache/
+.sass-cache/
+scss-cache/
+
+# Storage files
+*.sql
+*.sqlite
+*.db
+*.mdb
+*.log
+*.sql
+*.sqlite
+*.db
+*.mdb
+
+# DotNet specific folders
+artifacts/
+vs/
+tmp/
+tmp/
+temp/
+temp/
+
+# Lock files
+.lock.json
+.lock
+.lock
+
+# JetBrains Rider
+.idea/
+
+# Azure
+publishProfiles/
